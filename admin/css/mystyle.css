@@ -1,0 +1,206 @@
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+  /* font-size: 16px; */
+   /* background: url("../images/bg.jpg") repeat-y center center fixed;*/
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  }
+
+suraj-left-nav{
+    background-color:black;
+    
+}
+
+.side-nav{
+    background-color: #f0ad4ea8;
+    color: #f5f5f5;
+}
+.nav li a{
+   color:#fff;
+
+   
+}
+.side-nav li a {
+    color:#fff;
+}
+
+
+suraj-left-nav li a {
+    font-weight: 500;
+    color: #fff;
+}
+
+
+#suraj-panel-notice{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    max-width:  idth: 1200px;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+#suraj-panel-notice h1 {
+    
+    text-align: center;
+    font-style: normal;
+    text-transform: uppercase;
+    
+}
+
+.panel-heading{
+    background:#f8f8f8;
+    border:5px solid #ff0;
+}
+
+
+.su-receive{
+    max-width: 400px;
+}
+#receiver-name{
+    
+    font-size: 16px;
+    color: red;
+    text-decoration: none;
+}
+
+.receiver-amount{
+    font-size: 16px;
+    color: red;
+
+}
+.receiver{
+    
+text-transform: uppercase;
+    
+font-size: 16px;
+    
+font-weight: bolder;
+    
+color: #337ab7;
+}
+
+.receiver i {
+  color: black;
+}
+#welcome{
+    background-color: #3c763d;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    ax-width:  1200px;
+    margin: auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#welcome p {padding-top: 20px;  color:#fff; padding-bottom: 50px;
+    
+}
+#welcome h2{padding-top: 20px;  color:gold;}
+#welcome-class{margin-top:0px; background-color: #ddd;}
+
+.how-it-works{
+    
+    margin-top: 70px;
+    margin-bottom: 70px;
+    
+}
+#idea.col-md-3{
+    background-color: rgba(0,0,0,.0001);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    ax-width:  1200px;
+    margin: auto;
+}
+
+#idea.col-md-3 h3{
+    text-align: center;
+}
+
+#btn-success-welcome{
+    width: 200px;
+    background-color: gold;
+}
+#btn-success-welcome:hover{
+     background-color:#4ff64f;
+}
+
+#package-container{
+    
+    margin-top: 10px;
+    
+   
+}
+.container-pack{
+    background-color: #86bc4233;
+}
+#package-row{
+    margin-top: 50px;
+     margin-bottom: 50px;
+}
+
+#package-container h2{
+    padding-top: 20px;
+}
+.buy{
+    background-color: red;
+}
+#inactive{
+    margin: auto;
+    background-color: aqua;
+    background-color: #d9edf7;
+    box-shadow: 0 4px 8px 0 #d9edf7, 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    ax-width:  1200px;
+    margin: auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#match-box.col-md-8 col-sm-12 col-xs-12 {
+    background-color: aquamarine;
+}
+
+#match {
+    background-color: #d9edf7;
+    box-shadow: 0 4px 8px 0 #fcf8e3, 0 6px 20px 0 #fcf8e3;
+    max-width:  idth: 1200px;
+    margin: auto;
+    margin-bottom: 50px;
+    color: #333;
+}
+#payer-match {
+    background-color: #8a6d3b;
+    box-shadow: 0 4px 8px 0 #fcf8e3, 0 6px 20px 0 #fcf8e3;
+    max-width:  idth: 1200px;
+    margin: auto;
+    margin-bottom: 50px;
+    color: #f5f5f5;
+    padding: 3px;
+    padding-left: 3px;
+}
+#user-list{
+    background-color: #d9edf7;
+}
+
+#make-match-container{
+    background-color: #f2dede;
+}
+#make-rematch-container{
+    background-color: #dff0d8;
+}
+#matc-alert{
+    background-color: aqua;
+}
+
+#update-user{
+    background-color: #d9edf7;
+    margin-bottom: 30px;
+    padding-top: 20px;
+    box-shadow: 0 4px 8px 0 #f2dede, 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#update-user form{
+    margin: auto;
+}
+#input{
+    color: red;
+}
